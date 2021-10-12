@@ -1,0 +1,7 @@
+El siguiente código muestra como se espera que funcione la solución de ascensores.
+
+Para entender el código, se debe comenzar en ElevatorModel.py, donde se crean las clases y funciones base a utilizar.
+
+En segundo lugar, ElevatorController.py contiene las funciones que aplicarán lógica al uso de ascensores.
+
+Finalmente en View.py se encontrán objetos creados listos a utiliar una vez la lógica sea codificada.
